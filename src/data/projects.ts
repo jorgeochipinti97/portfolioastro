@@ -12,12 +12,12 @@ const projects: Project[] = [
     link: "#", isComingSoon: true
   },
   {
-    title: "Developer & Founder | AI secret project",
+    title: "Developer & Founder | Guinti LLC - AI secret project",
     techs: ["NextJs", "OpenaiAPI", 'Tailwindcss', 'NextUI', 'GSAP'],
     link: "#", isComingSoon: true
   },
   {
-    title: "Founder & developer | Guinti LLC",
+    title: "Founder & developer | Travel agency",
     techs: ["ReactJS (NextJS)", "Tailwindcss", "NextUI", 'GSAP'],
     link: "https://www.guinti.com",
   },
