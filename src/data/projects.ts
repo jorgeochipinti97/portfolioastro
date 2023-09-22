@@ -17,7 +17,7 @@ const projects: Project[] = [
     link: "#", isComingSoon: true
   },
   {
-    title: "developer | Travel agency",
+    title: "Developer | Travel agency",
     techs: ["ReactJS (NextJS)", "Tailwindcss", "NextUI", 'GSAP'],
     link: "https://www.guinti.com",
   },
